@@ -14,7 +14,7 @@ keep_files:
 
 
 # Site settings
-title: HPC-UK1
+title: HPC-UK
 subtitle: "Improving use of UK HPC faclities"
 url: "https://www.hpc-uk.ac.uk" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
